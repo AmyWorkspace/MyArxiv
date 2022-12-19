@@ -4,8 +4,65 @@ cache_url = "https://amyworkspace.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
+category = "cs.GL"
+title = "General Literature"
+
+[[sources]]
+limit = 150
+category = "cs.HC"
+title = "Human-Computer Interaction"
+
+[[sources]]
+limit = 150
+category = "cs.MS"
+title = "Networking and Internet Architecture"
+
+[[sources]]
+limit = 150
+category = "cs.SI"
+title = "Social and Information Networks"
+
+[[sources]]
+limit = 150
+category = "cs.DC"
+title = "Distributed, Parallel, and Cluster Computing"
+
+
+[[sources]]
+limit = 150
+category = "cs.LG"
+title = "Machine Learning"
+
+[[sources]]
+limit = 150
+category = "cs.CR"
+title = "Cryptography and Security"
+
+[[sources]]
+limit = 150
 category = "cs.CL"
 title = "Computation and Language"
+
+[[sources]]
+limit = 150
+category = "cs.SE"
+title = "Software Engineering"
+
+[[sources]]
+limit = 150
+category = "cs.PL"
+title = "Programming Languages"
+
+[[sources]]
+limit = 150
+category = "cs.FL"
+title = "Formal Languages and Automata Theory"
+
+
+[[sources]]
+limit = 150
+category = "cs.SC"
+title = "Symbolic Computation"
 
 [[sources]]
 limit = 150
@@ -19,13 +76,51 @@ title = "Information Retrieval"
 
 [[sources]]
 limit = 150
-category = "cs.LG"
-title = "Machine Learning"
+category = "cs.MS"
+title = "Mathematical Software"
 
 [[sources]]
 limit = 150
-category = "cs.MM"
-title = "Multimedia"
+category = "cs.DS"
+title = "Data Structures and Algorithms"
+
+
+[[sources]]
+limit = 150
+category = "eess.SP"
+title = "Signal Processing"
+
+[[sources]]
+limit = 150
+category = "cs.SD"
+title = "Sound"
+
+[[sources]]
+limit = 150
+category = "cs.RO"
+title = "Robotics"
+
+[[sources]]
+limit = 150
+category = "eess.SY"
+title = "Systems and Control"
+
+
+[[sources]]
+limit = 150
+category = "cs.MS"
+title = "Multiagent Systems"
+
+[[sources]]
+limit = 150
+category = "cs.DB"
+title = "Databases"
+
+[[sources]]
+limit = 150
+category = "cs.ET"
+title = "Emerging Technologies"
+
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
